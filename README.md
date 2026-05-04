@@ -106,7 +106,7 @@ Applied ──► Aptitude Test ──► Technical Interview ──► HR Round
 ### 🔐 Login Screen
 > Split-screen design with role selector — Student, Admin, Company HR. Clean dark UI with feature highlights on left panel.
 
-![Login Screen](screenshots/login.png)
+![Login Screen](https://drive.google.com/file/d/1aG48AmlHcPnO40EAZeJyKbJ0VuztlAsL/view?usp=drivesdk)
 
 ---
 
@@ -512,7 +512,7 @@ Placement_cell_System/
 | 🎨 | **Sohel Sayyed** | UI/UX Designer & Frontend Developer |
 | ⚙️ | **Shreepad Waghmare** | Business Logic & Module Integration |
 
-**2nd Year · Computer Science & Engineering · 2025**
+**2nd Year · Computer Science & Engineering · 2026**
 
 </div>
 
@@ -539,6 +539,6 @@ This project is licensed under the **MIT License** — free to use, modify and d
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:1a2332,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Built with ❤️ by Team PlaceTrack Pro · 2025*
+*Built with ❤️ by Team PlaceTrack Pro · 2026*
 
 </div>
