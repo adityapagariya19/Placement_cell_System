@@ -9,7 +9,6 @@
 ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-1F6AA5?style=for-the-badge&logo=python&logoColor=white)
 ![OOP](https://img.shields.io/badge/Paradigm-OOP-FF6B35?style=for-the-badge&logo=buffer&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20India-ff69b4?style=for-the-badge)
 
 <br/>
@@ -525,13 +524,6 @@ Placement_cell_System/
 | 🐙 GitHub | [adityapagariya19/Placement_cell_System](https://github.com/adityapagariya19/Placement_cell_System) |
 | 📁 Google Drive | [View Project Files](https://drive.google.com/file/d/19HF1fmh10xqGTAe_pMpvJ_0q0JDe949f/view?usp=drivesdk) |
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use, modify and distribute with attribution.
-
----
 
 <div align="center">
 
