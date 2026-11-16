@@ -8,7 +8,6 @@ import tkinter as tk
 from tkinter import messagebox
 import sys, os
 
-# Ensure project root is on path
 sys.path.insert(0, os.path.dirname(__file__))
 
 from config.db_config import db
@@ -17,7 +16,6 @@ from views.login_view import LoginView
 from views.admin_view import AdminDashboard
 from views.student_view import StudentDashboard
 from views.company_view import CompanyDashboard
-
 
 class PlaceTrackApp:
     """
